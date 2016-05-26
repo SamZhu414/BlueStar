@@ -3,7 +3,7 @@ package com.ibm.digital.bean;
 import java.util.List;
 
 public class FormBean {
-	private String ool;
+	
 	private String operationType;
 	private String productName;
 	private String productTitle;
