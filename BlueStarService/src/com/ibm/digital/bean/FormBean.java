@@ -3,10 +3,6 @@ package com.ibm.digital.bean;
 import java.util.List;
 
 public class FormBean {
-
-	public static void main(String[] args) {
-
-	}
 	
 	private String operationType;
 	private String productName;

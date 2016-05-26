@@ -22,6 +22,7 @@ import com.ibm.digital.util.UploadUtil;
 public class FileUploadForm {
 	/**
 	 * {
+	 * 
 	"operationType":"0",
 	"productName":"myproduct",
 	"productTitle":"mytitle",
