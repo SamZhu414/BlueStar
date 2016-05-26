@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ibm.digital.bean;
+package com.ibm.digital.util;
 
 import java.io.File;
 import java.io.FileWriter;

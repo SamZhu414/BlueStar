@@ -15,7 +15,7 @@ import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
-import com.ibm.digital.bean.UploadUtil;
+import com.ibm.digital.util.UploadUtil;
 
 @Path("/file")  
 public class FileUploadForm {
